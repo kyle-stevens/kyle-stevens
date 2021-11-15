@@ -1,7 +1,9 @@
 #Kyle Stevens
+
 ##Computer Science(Software Engineering) B.S.
+
 ##Computer Science(Cybersecurity) M.C.S.(Student)
-<br />
+
 ###About Me
 
 <!--
