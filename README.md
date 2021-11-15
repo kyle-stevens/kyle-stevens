@@ -1,10 +1,8 @@
 # Kyle Stevens
+<p>Computer Science(Software Engineering) B.S.</p>
+<p>Computer Science(Cybersecurity) M.C.S.(Student)</p>
 
-## Computer Science(Software Engineering) B.S.
-
-## Computer Science(Cybersecurity) M.C.S.(Student)
-
-### About Me
+## About Me
 
 <!--
 **kyle-stevens/kyle-stevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
