@@ -3,11 +3,11 @@
 <p>Computer Science(Cybersecurity) M.C.S.(Student)</p>
 
 ## About Me
-<p> I am currently a Graduate Student at Arizona State University in their Computer Science(Cyber Security) Program. I have a Bachelor's of Science in Computer Science(Software Engineering). 
-I participate in competitive underwater robotics with ASUR at ASU.
-BLAH
-BLAH
-BLAH </p>
+<p>I am currently a Graduate Student at Arizona State University in their Computer Science(Cyber Security) Program. I have a Bachelor's of Science in Computer Science(Software Engineering). 
+I participate in competitive underwater robotics with ASUR at ASU working as a developer(2018-2022), Software Lead(2020-2021), and Vice President(2021-2022). During this time I have worked on developing I2C 
+communication protocols, robot controls, and performed research into camera vision control guidance.</p>
+<br />
+<p>Paragraph 2</p>
 
 
 
