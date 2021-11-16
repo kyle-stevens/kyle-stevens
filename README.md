@@ -7,10 +7,14 @@
 I participate in competitive underwater robotics with ASUR at ASU working as a developer(2018-2022), Software Lead(2020-2021), and Vice President(2021-2022). During this time I have worked on developing I2C 
 communication protocols, robot controls, and performed research into camera vision control guidance.</p>
 <br />
+
 ## Game Projects
 <a href="https://github.com/kyle-stevens/murder-mansion">Murder Mansion Mystry Game</a> - Rework of a project from CSCafe github community.(Under Development)
+
 <a href="https://github.com/kyle-stevens/dodge_blocks">Dodge Blocks</a> - Pygame program, using diagonal control scheme to dodge flying blocks.(Finished Development)
+
 <a href="https://github.com/kyle-stevens/flappy_square">Flappy Square</a> - Pygame clone of Flappy Bird.(Finished Development)
+
 <a href="https://github.com/kyle-stevens/SquareRain">Square Rain</a> - Pygame program, character must dodge falling blocks.(Finished Development)
 
 
