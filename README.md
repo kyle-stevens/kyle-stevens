@@ -17,7 +17,10 @@ communication protocols, robot controls, and performed research into camera visi
 
 <a href="https://github.com/kyle-stevens/SquareRain">Square Rain</a> - Pygame program, character must dodge falling blocks.(Finished Development)
 
+## Development Projects
+<a href="https://github.com/kyle-stevens/TaskTracker">Task Tracker</a> - JavaFX based program to track lists of tasks.(Finished Development)
 
+<a href="https://github.com/kyle-stevens/ROS-ARDUINO-I2C-COMMUNICATION">I2C Wire Protocol</a> - Linux based i2c communication of pwm motor values between an RPI/Nvidia Jetson and a Arduino/Equivalent Microcontroller.(Finished Development)
 
 
 
