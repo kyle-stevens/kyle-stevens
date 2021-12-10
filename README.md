@@ -9,7 +9,7 @@ communication protocols, robot controls, and performed research into camera visi
 <br />
 
 ## Game Projects
-<a href="https://github.com/kyle-stevens/murder-mansion">Murder Mansion Mystry Game</a> - Rework of a project from CSCafe github community.(Under Development)
+<a href="https://github.com/kyle-stevens/murder-mansion">Murder Mansion Mystery Game</a> - Rework of a project from CSCafe github community.(Under Development)
 
 <a href="https://github.com/kyle-stevens/dodge_blocks">Dodge Blocks</a> - Pygame program, using diagonal control scheme to dodge flying blocks.(Finished Development)
 
