@@ -10,18 +10,18 @@ communication protocols, robot controls, and performed research into camera visi
 <br />
 
 ## Game Projects
-<a href="https://github.com/kyle-stevens/murder-mansion">Murder Mansion Mystery Game</a> - Rework of a project from CSCafe github community.(Under Development)
+<a href="https://github.com/kyle-stevens/murder-mansion" target="_blank">Murder Mansion Mystery Game</a> - Rework of a project from CSCafe github community.(Under Development)
 
-<a href="https://github.com/kyle-stevens/dodge_blocks">Dodge Blocks</a> - Pygame program, using diagonal control scheme to dodge flying blocks.(Finished Development)
+<a href="https://github.com/kyle-stevens/dodge_blocks" target="_blank">Dodge Blocks</a> - Pygame program, using diagonal control scheme to dodge flying blocks.(Finished Development)
 
-<a href="https://github.com/kyle-stevens/flappy_square">Flappy Square</a> - Pygame clone of Flappy Bird.(Finished Development)
+<a href="https://github.com/kyle-stevens/flappy_square" target="_blank">Flappy Square</a> - Pygame clone of Flappy Bird.(Finished Development)
 
-<a href="https://github.com/kyle-stevens/SquareRain">Square Rain</a> - Pygame program, character must dodge falling blocks.(Finished Development)
+<a href="https://github.com/kyle-stevens/SquareRain" target="_blank">Square Rain</a> - Pygame program, character must dodge falling blocks.(Finished Development)
 
 ## Development Projects
-<a href="https://github.com/kyle-stevens/TaskTracker">Task Tracker</a> - JavaFX based program to track lists of tasks.(Finished Development)
+<a href="https://github.com/kyle-stevens/TaskTracker" target="_blank">Task Tracker</a> - JavaFX based program to track lists of tasks.(Finished Development)
 
-<a href="https://github.com/kyle-stevens/ROS-ARDUINO-I2C-COMMUNICATION">I2C Wire Protocol</a> - Linux based i2c communication of pwm motor values between an RPI/Nvidia Jetson and a Arduino/Equivalent Microcontroller.(Finished Development)
+<a href="https://github.com/kyle-stevens/ROS-ARDUINO-I2C-COMMUNICATION" target="_blank">I2C Wire Protocol</a> - Linux based i2c communication of pwm motor values between an RPI/Nvidia Jetson and a Arduino/Equivalent Microcontroller.(Finished Development)
 
 
 
