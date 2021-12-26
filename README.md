@@ -1,7 +1,7 @@
 # Kyle Stevens
 <p>Computer Science(Software Engineering) B.S.</p>
 <p>Computer Science(Cybersecurity) M.C.S.(Student)</p>
-<a href="https://kyle-stevens.github.io/">Personal Site</a>
+<a href="https://kyle-stevens.github.io/" target="_blank">Personal Site</a>
 
 ## About Me
 <p>I am currently a Graduate Student at Arizona State University in their Computer Science(Cyber Security) Program. I have a Bachelor's of Science in Computer Science(Software Engineering). 
