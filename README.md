@@ -1,13 +1,12 @@
 # Kyle Stevens
 <p>Computer Science(Software Engineering) B.S.</p>
-<p>Computer Science(Cybersecurity) M.C.S.(Student)</p>
+<p>Computer Science(Cybersecurity) M.C.S.</p>
 <a href="https://kyle-stevens.github.io/" target="_blank">Personal Site</a>
 
 
 ## About Me
-<p>I am currently a Graduate Student at Arizona State University in their Computer Science(Cyber Security) Program. I have a Bachelor's of Science in Computer Science(Software Engineering). 
-I participate in competitive underwater robotics with ASUR at ASU working as a developer(2018-2022), Software Lead(2020-2021), and Vice President(2021-2022). During this time I have worked on developing I2C 
-communication protocols, robot controls, and performed research into camera vision control guidance.</p>
+<p>I am an Arizona State University Alumni with a Master of Computer Science Degree in Computer Science(Cybersecurity) and a Bachelor of Science in Computer Science(Software Engineering). 
+I participated in competitive underwater robotics with ASUR at ASU working as a developer(2018-2022), Software Lead(2020-2021), and Vice President(2021-2022). During this time I worked on developing I2C communication protocols, robot controls, and performed research into camera vision control guidance.</p>
 <br />
 
 ## Game Projects
