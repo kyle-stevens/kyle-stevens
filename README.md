@@ -10,7 +10,7 @@ I participated in competitive underwater robotics with ASUR at ASU working as a 
 <br />
 
 ## Game Projects
-<a href="https://github.com/kyle-stevens/murder-mansion" target="_blank">Murder Mansion Mystery Game</a> - Rework of a project from CSCafe github community.(Under Development)
+<a href="https://github.com/kyle-stevens/murder-mansion" target="_blank">Murder Mansion Mystery Game</a> - Rework of a project from CSCafe github community.(No Longer Active)
 
 <a href="https://github.com/kyle-stevens/dodge_blocks" target="_blank">Dodge Blocks</a> - Pygame program, using diagonal control scheme to dodge flying blocks.(Finished Development)
 
