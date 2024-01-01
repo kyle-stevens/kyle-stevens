@@ -5,7 +5,7 @@
 
 
 ## About Me
-<p>I am an Arizona State University Alumni with a Master of Computer Science Degree in Computer Science(Cybersecurity) and a Bachelor of Science in Computer Science(Software Engineering). 
+<p>Software Engineer at Microchip Technology working on provisioning of cryptographically secure microchips and devices. Working with RSA and ECC encryptions, and automated testing and software qa for product. Arizona State University Alumni with a Master of Computer Science Degree in Computer Science(Cybersecurity) and a Bachelor of Science in Computer Science(Software Engineering). 
 I participated in competitive underwater robotics with ASUR at ASU working as a developer(2018-2022), Software Lead(2020-2021), and Vice President(2021-2022). During this time I worked on developing I2C communication protocols, robot controls, and performed research into camera vision control guidance.</p>
 <br />
 
