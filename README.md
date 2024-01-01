@@ -23,6 +23,10 @@ I participated in competitive underwater robotics with ASUR at ASU working as a 
 
 <a href="https://github.com/kyle-stevens/ROS-ARDUINO-I2C-COMMUNICATION" target="_blank">I2C Wire Protocol</a> - Linux based i2c communication of pwm motor values between an RPI/Nvidia Jetson and a Arduino/Equivalent Microcontroller.(Finished Development)
 
+<a href="https://taskbargod.itch.io/docpy" target="_blank">DocPy</a> - Basic Windows system file cleanup application build in Python.(Finished Development)
+
+<a href="https://taskbargod.itch.io/metadata" target="_blank">MetaData</a> - Simple C#.NET application to view file metadata on Windows based systems.(Finished Development)
+
 
 
 
