@@ -18,6 +18,8 @@ I participated in competitive underwater robotics with ASUR at ASU working as a 
 
 <a href="https://github.com/kyle-stevens/SquareRain" target="_blank">Square Rain</a> - Pygame program, character must dodge falling blocks.(Finished Development)
 
+<a href="https://taskbargod.itch.io/parkit" target="_blank">ParkIt</a> - Godot based game about parking cars.(Finished Development, Active Additions)
+
 ## Development Projects
 <a href="https://github.com/kyle-stevens/TaskTracker" target="_blank">Task Tracker</a> - JavaFX based program to track lists of tasks.(Finished Development)
 
@@ -26,6 +28,8 @@ I participated in competitive underwater robotics with ASUR at ASU working as a 
 <a href="https://taskbargod.itch.io/docpy" target="_blank">DocPy</a> - Basic Windows system file cleanup application build in Python.(Finished Development)
 
 <a href="https://taskbargod.itch.io/metadata" target="_blank">MetaData</a> - Simple C#.NET application to view file metadata on Windows based systems.(Finished Development)
+
+<a href="https://github.com/kyle-stevens/skyline_sort" target="_blank">Skyline Sort</a> - Python class implementation of the skyline operator for N sorting categories.(Finished Development)
 
 
 
